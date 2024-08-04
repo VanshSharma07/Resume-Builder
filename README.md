@@ -1,4 +1,5 @@
 ## **Resume Builder**
+![Screenshot 2024-08-04 205947](https://github.com/user-attachments/assets/46184bb7-8f81-4b25-b094-3d5290d09c2f)
 
 
 
